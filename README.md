@@ -13,8 +13,8 @@ python app_basic.py
 
 ## Output
 
-![](browse.png)
+![](imgs/browse.png)
 
 Choose Browse and upload an image. Click Upload to get the output
 
-![](output.png)
+![](imgs/output.png)
