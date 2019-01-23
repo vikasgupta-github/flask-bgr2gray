@@ -10,11 +10,12 @@ bootstrap
 ## How to Use
 
 python app_basic.py
+Go to 127.0.0.1:4555 on your browser.
 
 ## Output
-
+You should get a screen shown below
+Choose Browse and upload an image. Click Upload to get the output
 ![](imgs/browse.png)
 
-Choose Browse and upload an image. Click Upload to get the output
 
 ![](imgs/output.png)
