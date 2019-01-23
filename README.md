@@ -13,7 +13,9 @@ python app_basic.py
 Go to 127.0.0.1:4555 on your browser.
 
 ## Output
-You should get a screen shown below
+
+You should get a screen shown below.
+
 Choose Browse and upload an image. Click Upload to get the output
 ![](imgs/browse.png)
 
