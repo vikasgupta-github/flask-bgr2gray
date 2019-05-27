@@ -9,8 +9,9 @@ bootstrap
 
 ## How to Use
 
-python app_basic.py
-Go to 127.0.0.1:4555 on your browser.
+1. python app_basic.py
+
+2. Go to 127.0.0.1:4555 on your browser.
 
 ## Output
 
